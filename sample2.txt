@@ -1,0 +1,3 @@
+PS C:\Users\dileep.chukka\Downloads\gitProject2> git init
+Initialized empty Git repository in C:/Users/dileep.chukka/Downloads/gitProject2/.git/
+PS C:\Users\dileep.chukka\Downloads\gitProject2>
