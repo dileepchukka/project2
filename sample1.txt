@@ -1,1 +1,3 @@
 file 1 pushing
+first commit all your changes in dmgr2 branch. and then point to master 1.git checkout master and then get the latest change 2.git pull 3.git merge dmgr2 4.git push -u origin master And then go back to your dmgr2 5.git checkout dmgr2 – 
+mat_vee
