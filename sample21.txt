@@ -1,0 +1,5 @@
+23:35:19.617 [info] > git ls-files --stage -- C:\Users\dileep.chukka\Downloads\gitProject21\sample1.txt [74ms]
+2023-12-09 23:35:19.713 [info] > git cat-file -s 233bba12f3a113339e4b93155235117b55dd0448 [88ms]
+2023-12-09 23:35:19.810 [info] > git show --textconv :sample1.txt [84ms]
+2023-12-09 23:35:23.896 [info] > git config --get commit.template [83ms]
+2023-12-09 23:35:23.913 [info] > git for
